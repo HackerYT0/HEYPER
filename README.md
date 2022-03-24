@@ -3,7 +3,7 @@
 
 # This Tool Is Free Of Cost 
 
-git clone https://github.com/HackerYT0/HEYPER
+git clone https://github.com/HackerYT0/HYPER
 
 cd HYPER
 
