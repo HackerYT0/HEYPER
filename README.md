@@ -5,7 +5,7 @@
 
 git clone https://github.com/HackerYT0/HEYPER
 
-cd HEYPER
+cd HYPER
 
 python2 Hyper.py
 
